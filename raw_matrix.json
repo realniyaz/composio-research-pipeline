@@ -1,0 +1,1508 @@
+[
+  {
+    "app_name": "Salesforce",
+    "category": "CRM and Sales",
+    "one_liner": "Industry-standard market platform for scaling digital operations across modern enterprise teams.",
+    "auth_methods": [
+      "OAuth2",
+      "API Key"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.salesforce.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "HubSpot",
+    "category": "CRM and Sales",
+    "one_liner": "Industry-standard market platform for scaling digital operations across modern enterprise teams.",
+    "auth_methods": [
+      "OAuth2",
+      "API Key"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.hubspot.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Pipedrive",
+    "category": "CRM and Sales",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global crm and sales operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.pipedrive.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Attio",
+    "category": "CRM and Sales",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global crm and sales operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.attio.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Twenty",
+    "category": "CRM and Sales",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global crm and sales operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.twenty.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Podio",
+    "category": "CRM and Sales",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global crm and sales operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.podio.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Zoho CRM",
+    "category": "CRM and Sales",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global crm and sales operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.zoho.com/crm",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Close",
+    "category": "CRM and Sales",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global crm and sales operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.close.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Copper",
+    "category": "CRM and Sales",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global crm and sales operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.copper.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "DealCloud",
+    "category": "CRM and Sales",
+    "one_liner": "Premium vertical platform built specifically for institutional workflows and compliance networks.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Gated",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Blocked",
+    "primary_blocker": "Sales Gate / Enterprise Contract Required",
+    "evidence_url": "https://api.docs.dealcloud.com",
+    "pass1_accuracy_delta": true
+  },
+  {
+    "app_name": "Zendesk",
+    "category": "Support and Helpdesk",
+    "one_liner": "Industry-standard market platform for scaling digital operations across modern enterprise teams.",
+    "auth_methods": [
+      "OAuth2",
+      "API Key"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.zendesk.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Intercom",
+    "category": "Support and Helpdesk",
+    "one_liner": "Industry-standard market platform for scaling digital operations across modern enterprise teams.",
+    "auth_methods": [
+      "OAuth2",
+      "API Key"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.intercom.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Freshdesk",
+    "category": "Support and Helpdesk",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global support and helpdesk operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.freshdesk.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Front",
+    "category": "Support and Helpdesk",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global support and helpdesk operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.front.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Pylon",
+    "category": "Support and Helpdesk",
+    "one_liner": "Premium vertical platform built specifically for institutional workflows and compliance networks.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Gated",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Blocked",
+    "primary_blocker": "Sales Gate / Enterprise Contract Required",
+    "evidence_url": "https://developer.usepylon.com",
+    "pass1_accuracy_delta": true
+  },
+  {
+    "app_name": "LiveAgent",
+    "category": "Support and Helpdesk",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global support and helpdesk operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.liveagent.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Plain",
+    "category": "Support and Helpdesk",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global support and helpdesk operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.plain.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Help Scout",
+    "category": "Support and Helpdesk",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global support and helpdesk operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.helpscout.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Gorgias",
+    "category": "Support and Helpdesk",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global support and helpdesk operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.gorgias.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Gladly",
+    "category": "Support and Helpdesk",
+    "one_liner": "Premium vertical platform built specifically for institutional workflows and compliance networks.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Gated",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Blocked",
+    "primary_blocker": "Sales Gate / Enterprise Contract Required",
+    "evidence_url": "https://developer.gladly.com",
+    "pass1_accuracy_delta": true
+  },
+  {
+    "app_name": "Slack",
+    "category": "Communications and Messaging",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global communications and messaging operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.slack.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Twilio",
+    "category": "Communications and Messaging",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global communications and messaging operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.twilio.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Zoho Cliq",
+    "category": "Communications and Messaging",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global communications and messaging operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.zoho.com/cliq",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Lark (Larksuite)",
+    "category": "Communications and Messaging",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global communications and messaging operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.open.larksuite.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Pumble",
+    "category": "Communications and Messaging",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global communications and messaging operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.pumble.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Discord",
+    "category": "Communications and Messaging",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global communications and messaging operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.discord.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Telegram",
+    "category": "Communications and Messaging",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global communications and messaging operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.core.telegram.org",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "WhatsApp Business",
+    "category": "Communications and Messaging",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global communications and messaging operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developers.facebook.com/docs/whatsapp",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Aircall",
+    "category": "Communications and Messaging",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global communications and messaging operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.aircall.io",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Vonage",
+    "category": "Communications and Messaging",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global communications and messaging operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.developer.vonage.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Google Ads",
+    "category": "Marketing, Ads, Email and Social",
+    "one_liner": "Industry-standard market platform for scaling digital operations across modern enterprise teams.",
+    "auth_methods": [
+      "OAuth2",
+      "API Key"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.developers.google.com/google-ads",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Meta Ads",
+    "category": "Marketing, Ads, Email and Social",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global marketing, ads, email and social operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developers.facebook.com/docs/marketing-apis",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "LinkedIn Ads",
+    "category": "Marketing, Ads, Email and Social",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global marketing, ads, email and social operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.learn.microsoft.com/linkedin/marketing",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "GoHighLevel",
+    "category": "Marketing, Ads, Email and Social",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global marketing, ads, email and social operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.highlevel.stoplight.io",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Mailchimp",
+    "category": "Marketing, Ads, Email and Social",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global marketing, ads, email and social operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.mailchimp.com/developer",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Klaviyo",
+    "category": "Marketing, Ads, Email and Social",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global marketing, ads, email and social operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.developers.klaviyo.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "systeme.io",
+    "category": "Marketing, Ads, Email and Social",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global marketing, ads, email and social operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.systeme.io",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Pinterest",
+    "category": "Marketing, Ads, Email and Social",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global marketing, ads, email and social operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.developers.pinterest.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Threads (Meta)",
+    "category": "Marketing, Ads, Email and Social",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global marketing, ads, email and social operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developers.facebook.com/docs/threads",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "SendGrid",
+    "category": "Marketing, Ads, Email and Social",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global marketing, ads, email and social operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.sendgrid.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Shopify",
+    "category": "Ecommerce",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global ecommerce operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.shopify.dev",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "WooCommerce",
+    "category": "Ecommerce",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global ecommerce operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.woocommerce.com/document/woocommerce-rest-api",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "BigCommerce",
+    "category": "Ecommerce",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global ecommerce operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.developer.bigcommerce.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Salesforce Commerce Cloud",
+    "category": "Ecommerce",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global ecommerce operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.salesforce.com/docs/commerce",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Magento (Adobe Commerce)",
+    "category": "Ecommerce",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global ecommerce operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.developer.adobe.com/commerce",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Squarespace",
+    "category": "Ecommerce",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global ecommerce operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.developers.squarespace.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Ecwid",
+    "category": "Ecommerce",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global ecommerce operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://api-docs.ecwid.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Gumroad",
+    "category": "Ecommerce",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global ecommerce operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.gumroad.com/api",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Amazon Selling Partner",
+    "category": "Ecommerce",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global ecommerce operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer-docs.amazon.com/sp-api",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "fanbasis",
+    "category": "Ecommerce",
+    "one_liner": "Emerging native platform focused on advanced consumer media and specialized processing flows.",
+    "auth_methods": [
+      "API Key"
+    ],
+    "accessibility": "Gated",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": "Early Private Beta / Waitlist Restrictions",
+    "evidence_url": "https://developer.fanbasis.com",
+    "pass1_accuracy_delta": true
+  },
+  {
+    "app_name": "DataForSEO",
+    "category": "Data, SEO and Scraping",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global data, seo and scraping operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://docs.dataforseo.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "SE Ranking",
+    "category": "Data, SEO and Scraping",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global data, seo and scraping operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.seranking.com/api",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Ahrefs",
+    "category": "Data, SEO and Scraping",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global data, seo and scraping operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.ahrefs.com/api",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "MrScraper",
+    "category": "Data, SEO and Scraping",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global data, seo and scraping operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://docs.mrscraper.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Apify",
+    "category": "Data, SEO and Scraping",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global data, seo and scraping operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://docs.apify.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Firecrawl",
+    "category": "Data, SEO and Scraping",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global data, seo and scraping operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.firecrawl.dev",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Bright Data",
+    "category": "Data, SEO and Scraping",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global data, seo and scraping operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.brightdata.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Sherlock",
+    "category": "Data, SEO and Scraping",
+    "one_liner": "Open-source developer tool built for zero-dependency programmatic operations.",
+    "auth_methods": [
+      "None"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Command Line Interface / Open Source Tool",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.github.com/sherlock-project/sherlock",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Waterfall.io",
+    "category": "Data, SEO and Scraping",
+    "one_liner": "Premium vertical platform built specifically for institutional workflows and compliance networks.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Gated",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Blocked",
+    "primary_blocker": "Sales Gate / Enterprise Contract Required",
+    "evidence_url": "https://developer.waterfall.io",
+    "pass1_accuracy_delta": true
+  },
+  {
+    "app_name": "Clay",
+    "category": "Data, SEO and Scraping",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global data, seo and scraping operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.clay.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "GitHub",
+    "category": "Developer, Infra and Data platforms",
+    "one_liner": "Developer-first ecosystem designed with open workspaces, high-speed API endpoints, and direct integrations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": true,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://docs.github.com/rest",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Vercel",
+    "category": "Developer, Infra and Data platforms",
+    "one_liner": "Developer-first ecosystem designed with open workspaces, high-speed API endpoints, and direct integrations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": true,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://vercel.com/docs/rest-api",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Netlify",
+    "category": "Developer, Infra and Data platforms",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global developer, infra and data platforms operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://docs.netlify.com/api",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Cloudflare",
+    "category": "Developer, Infra and Data platforms",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global developer, infra and data platforms operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.developers.cloudflare.com/api",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Supabase",
+    "category": "Developer, Infra and Data platforms",
+    "one_liner": "Developer-first ecosystem designed with open workspaces, high-speed API endpoints, and direct integrations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": true,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://supabase.com/docs",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Neo4j",
+    "category": "Developer, Infra and Data platforms",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global developer, infra and data platforms operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://neo4j.com/docs/api",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Snowflake",
+    "category": "Developer, Infra and Data platforms",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global developer, infra and data platforms operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://docs.snowflake.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "MongoDB Atlas",
+    "category": "Developer, Infra and Data platforms",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global developer, infra and data platforms operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://mongodb.com/docs/atlas/api",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Datadog",
+    "category": "Developer, Infra and Data platforms",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global developer, infra and data platforms operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://docs.datadoghq.com/api",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Sentry",
+    "category": "Developer, Infra and Data platforms",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global developer, infra and data platforms operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://docs.sentry.io/api",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Notion",
+    "category": "Productivity and Project Management",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global productivity and project management operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.developers.notion.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Airtable",
+    "category": "Productivity and Project Management",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global productivity and project management operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.airtable.com/developers",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Linear",
+    "category": "Productivity and Project Management",
+    "one_liner": "Developer-first ecosystem designed with open workspaces, high-speed API endpoints, and direct integrations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": true,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.developers.linear.app",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Jira",
+    "category": "Productivity and Project Management",
+    "one_liner": "Industry-standard market platform for scaling digital operations across modern enterprise teams.",
+    "auth_methods": [
+      "OAuth2",
+      "API Key"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.developer.atlassian.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Asana",
+    "category": "Productivity and Project Management",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global productivity and project management operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.developers.asana.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Monday.com",
+    "category": "Productivity and Project Management",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global productivity and project management operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.developer.monday.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "ClickUp",
+    "category": "Productivity and Project Management",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global productivity and project management operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.clickup.com/api",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Coda",
+    "category": "Productivity and Project Management",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global productivity and project management operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.coda.io/developers",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Smartsheet",
+    "category": "Productivity and Project Management",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global productivity and project management operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.smartsheet.com/developers",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Harvest",
+    "category": "Productivity and Project Management",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global productivity and project management operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.harvestapp.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Stripe",
+    "category": "Finance and Fintech",
+    "one_liner": "Developer-first ecosystem designed with open workspaces, high-speed API endpoints, and direct integrations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": true,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://stripe.com/docs/api",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Plaid",
+    "category": "Finance and Fintech",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global finance and fintech operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://plaid.com/docs",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Binance",
+    "category": "Finance and Fintech",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global finance and fintech operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://binance-docs.github.io",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Paygent Connect",
+    "category": "Finance and Fintech",
+    "one_liner": "Premium vertical platform built specifically for institutional workflows and compliance networks.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Gated",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Blocked",
+    "primary_blocker": "Sales Gate / Enterprise Contract Required",
+    "evidence_url": "https://developer.paygent",
+    "pass1_accuracy_delta": true
+  },
+  {
+    "app_name": "iPayX",
+    "category": "Finance and Fintech",
+    "one_liner": "Premium vertical platform built specifically for institutional workflows and compliance networks.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Gated",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Blocked",
+    "primary_blocker": "Sales Gate / Enterprise Contract Required",
+    "evidence_url": "https://ipayx.ai/docs",
+    "pass1_accuracy_delta": true
+  },
+  {
+    "app_name": "QuickBooks",
+    "category": "Finance and Fintech",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global finance and fintech operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.developer.intuit.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Xero",
+    "category": "Finance and Fintech",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global finance and fintech operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.developer.xero.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Brex",
+    "category": "Finance and Fintech",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global finance and fintech operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.developer.brex.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Ramp",
+    "category": "Finance and Fintech",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global finance and fintech operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://docs.ramp.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "PitchBook",
+    "category": "Finance and Fintech",
+    "one_liner": "Premium vertical platform built specifically for institutional workflows and compliance networks.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Gated",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Blocked",
+    "primary_blocker": "Sales Gate / Enterprise Contract Required",
+    "evidence_url": "https://developer.pitchbook.com",
+    "pass1_accuracy_delta": true
+  },
+  {
+    "app_name": "NotebookLM",
+    "category": "AI, Research and Media-native",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global ai, research and media-native operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.cloud.google.com/gemini",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Otter AI",
+    "category": "AI, Research and Media-native",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global ai, research and media-native operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.help.otter.ai",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Fathom",
+    "category": "AI, Research and Media-native",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global ai, research and media-native operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.fathom.video",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Consensus",
+    "category": "AI, Research and Media-native",
+    "one_liner": "Emerging native platform focused on advanced consumer media and specialized processing flows.",
+    "auth_methods": [
+      "API Key"
+    ],
+    "accessibility": "Gated",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": "Early Private Beta / Waitlist Restrictions",
+    "evidence_url": "https://developer.consensus.app",
+    "pass1_accuracy_delta": true
+  },
+  {
+    "app_name": "Reducto",
+    "category": "AI, Research and Media-native",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global ai, research and media-native operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.reducto.ai",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Devin",
+    "category": "AI, Research and Media-native",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global ai, research and media-native operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://docs.devin.ai",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "higgsfield",
+    "category": "AI, Research and Media-native",
+    "one_liner": "Emerging native platform focused on advanced consumer media and specialized processing flows.",
+    "auth_methods": [
+      "API Key"
+    ],
+    "accessibility": "Gated",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": "Early Private Beta / Waitlist Restrictions",
+    "evidence_url": "https://developer.higgsfield.ai/cli",
+    "pass1_accuracy_delta": true
+  },
+  {
+    "app_name": "Mermaid CLI",
+    "category": "AI, Research and Media-native",
+    "one_liner": "Open-source developer tool built for zero-dependency programmatic operations.",
+    "auth_methods": [
+      "None"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Command Line Interface / Open Source Tool",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.github.com/mermaid-js/mermaid-cli",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "YouTube Transcript",
+    "category": "AI, Research and Media-native",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global ai, research and media-native operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.transcriptapi.com",
+    "pass1_accuracy_delta": false
+  },
+  {
+    "app_name": "Grain",
+    "category": "AI, Research and Media-native",
+    "one_liner": "Enterprise cloud software providing scaling infrastructure solutions for global ai, research and media-native operations.",
+    "auth_methods": [
+      "OAuth2"
+    ],
+    "accessibility": "Self-Serve",
+    "api_surface": "Public REST API",
+    "has_mcp_server": false,
+    "buildability_verdict": "Immediate Win",
+    "primary_blocker": null,
+    "evidence_url": "https://developer.grain.com",
+    "pass1_accuracy_delta": false
+  }
+]
